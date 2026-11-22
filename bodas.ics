@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lidiane e Ricardo//Bodas de Prata//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bodas-prata-lidiane-ricardo-20261208
+DTSTAMP:20261122T160000Z
+DTSTART:20261208T223000Z
+DTEND:20261209T023000Z
+SUMMARY:Bodas de Prata de Lidiane & Ricardo
+LOCATION:Paróquia Nossa Senhora das Graças\, R. Libertador\, 55 - Nossa Sra. das Graças\, Manaus - AM
+DESCRIPTION:Celebração religiosa às 18:30 na Paróquia Nossa Senhora das Graças. Recepção às 20:00 no Buffet Paulo Marinho\, Av. Ajuricaba\, 686-750 - Cachoeirinha\, Manaus - AM. Traje social.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Amanhã: Bodas de Prata de Lidiane & Ricardo
+END:VALARM
+END:VEVENT
+END:VCALENDAR
